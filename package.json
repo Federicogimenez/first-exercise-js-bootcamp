@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "first exercise",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Federicogimenez/first-exercise-js-bootcamp.git"
+  },
+  "author": "federico gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Federicogimenez/first-exercise-js-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Federicogimenez/first-exercise-js-bootcamp#readme"
+}
